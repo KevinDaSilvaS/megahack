@@ -12,4 +12,3 @@ Production Link
 --------------------
 http://appcas.com.br/megahack/
 
-<h1>oi</h1>
